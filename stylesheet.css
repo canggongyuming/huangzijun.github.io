@@ -1,0 +1,64 @@
+@charset "UTF-8";
+   
+ body{
+    background-image: url("../images/06.jpg");
+    background-size: contain;
+    background-attachment: fixed;
+ }
+ .wrap{
+    width: 880px;
+    background: #dcf0f4;
+    margin: 0 auto;
+ }
+
+ .profile-img-box{
+    width: 100%;
+    margin: 0 auto;
+ }
+
+header{
+    background-image: url("../images/07.jpg");
+    background-size: 100%;
+    background-position: center;
+    width: 864px;
+    height: 284px;
+    border: 8px solid #8319ca;
+}
+
+h1{ 
+    color: rgb(255, 255, 255); 
+    font-size: 40px;
+    margin: -10px;
+    text-align: center; 
+}
+h2{
+    color: white;
+    text-align: center; 
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.4em;
+    padding: 5px;
+    background-color: rgb(227, 164, 81);
+}
+
+h3{
+    border-radius: 20px;
+    margin: 0 auto;
+    color: white;
+    width: 4cm;
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 1.5em;
+    padding: 5px;
+    background-color: rgb(227, 149, 81);
+}
+
+footer{
+    text-align: center;
+    font-size: 13px;
+}
+
+.book-img{
+    width: 200px;
+    height: 700px;
+}
